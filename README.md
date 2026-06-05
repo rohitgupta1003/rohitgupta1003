@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Kumar Gupta from Gangtok, Sikkim.
-- Currently in 3rd year in college doing my B.Tech C.S.E (AI-ML).
+- Currently in 4th year in college pursuing B.Tech C.S.E (AI-ML).
 - 👀 I’m interested in coding, cricket, journaling, typing, stamps collection, book reading, photo editing, learning new skills, current affairs.
 - 🌱 I’m currently learning progamming languages to enhance my skills.
 - 💞️ I’m looking to collaborate on this platform or any other social media platform to learn new things from the industries expert.
