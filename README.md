@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Rohit Kumar Gupta from Gangtok, Sikkim.
+-  Hi, I’m Rohit Kumar Gupta from Gangtok, Sikkim.
 - Currently in 4th year in college pursuing B.Tech C.S.E (AI-ML).
-- 👀 I’m interested in coding, cricket, journaling, typing, stamps collection, book reading, photo editing, learning new skills, current affairs.
-- 🌱 I’m currently learning progamming languages to enhance my skills.
-- 💞️ I’m looking to collaborate on this platform or any other social media platform to learn new things from the industries expert.
-- 📫 How to reach me?
+- I’m interested in coding, cricket, journaling, typing, stamps collection, book reading, photo editing, learning new skills, current affairs.
+- I’m currently learning progamming languages to enhance my skills.
+- I’m looking to collaborate on this platform or any other social media platform to learn new things from the industries expert.
+- How to reach me?
 - You can reach me via email "rohitguptagtkk@gmail.com" | instagram- "___ro.hit" | facebook- Rohit Gupta .
 
 <!---
