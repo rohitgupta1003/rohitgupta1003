@@ -4,7 +4,7 @@
 - I’m currently learning progamming languages to enhance my skills.
 - I’m looking to collaborate on this platform or any other social media platform to learn new things from the industries expert.
 - How to reach me?
-- You can reach me via email "rohitguptagtkk@gmail.com" | instagram- "___ro.hit" | facebook- Rohit Gupta .
+- You can reach me via email "rohitkrgupta010@gmail.com" | instagram- "___ro.hit" | facebook- Rohit Gupta .
 
 <!---
 rohitgupta1003/rohitgupta1003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
