@@ -2,7 +2,7 @@
 
 **B.Tech CSE (AI-ML) student | Cloud & AI Enthusiast | Building at the intersection of Data, Cloud & Automation**
 
-I'm a 4th-year Computer Science Engineering (AI-ML) student at Noida International University, currently working as an AI Intern and exploring how machine learning, cloud infrastructure, and automation come together to solve real-world problems. I enjoy turning ideas into working products — from predictive ML systems to full-stack web applications.
+I'm a 4th year Computer Science Engineering (AI-ML) student at Noida International University, currently working as an AI Intern and exploring how machine learning, cloud infrastructure, and automation come together to solve real world problems. I enjoy turning ideas into working products from predictive ML systems to full stack web applications.
 
 ---
 
@@ -32,20 +32,18 @@ I'm a 4th-year Computer Science Engineering (AI-ML) student at Noida Internation
 
 ### 📌 Featured Projects
 
-- **[AI-Powered Student Performance Prediction & Career Recommendation System](#)** — An ML-driven system built with Python, Flask, Pandas, NumPy, and Scikit-learn on a SQLite backend to predict student performance and recommend suitable career paths.
+- **[AI-Powered Student Performance Prediction & Career Recommendation System](#)** — An ML driven system built with Python, Flask, Pandas, NumPy, and Scikit-learn on a SQLite backend to predict student performance and recommend suitable career paths.
 - **[StayLoft](#)** — A hotel booking platform with search and booking functionality, built using Flask and showcased at an IEEE Project Competition.
 - **[Foodato](#)** — A Zomato-inspired food delivery website with a fully responsive UI.
 - **[Smart Calculator](#)** — A modular calculator application designed for improved computational reliability.
 - **[Snake Game](#)** — A classic Snake game built with Python OOP, featuring collision detection and score tracking.
 
-> 💡 *Tip: replace the `#` above with the actual repository links so visitors can jump straight to the code.*
 
----
 
 ### 📊 GitHub Stats
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitgupta1003&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgupta1003&layout=compact&hide_border=true)
+![Rohit's GitHub stats](https://github-stats-extended.vercel.app/api?username=rohitgupta1003&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rohitgupta1003&layout=compact&hide_border=true)
 
 ---
 
