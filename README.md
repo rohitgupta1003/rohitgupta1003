@@ -32,11 +32,12 @@ I'm a 4th year Computer Science Engineering (AI-ML) student at Noida Internation
 
 ### 📌 Featured Projects
 
-- **[AI-Powered Student Performance Prediction & Career Recommendation System]()** — An ML driven system built with Python, Flask, Pandas, NumPy, and Scikit-learn on a SQLite backend to predict student performance and recommend suitable career paths.
-- **[StayLoft]()** — A hotel booking platform with search and booking functionality, built using Flask and showcased at an IEEE Project Competition.
-- **[Foodato]()** — A Zomato-inspired food delivery website with a fully responsive UI.
+- **[AI-Powered Student Performance Prediction & Career Recommendation System](https://github.com/rohitgupta1003/AI-Student-Performance-Prediction-and-Career-Recommendation-System)** — An ML driven system built with Python, Flask, Pandas, NumPy, and Scikit-learn on a SQLite backend to predict student performance and recommend suitable career paths.
+- **[Nomad Stays](https://github.com/rohitgupta1003/nomad-stays)** — A hotel booking platform with search and booking functionality, built using Flask and showcased at an IEEE Project Competition.
+- **[Foodato](https://github.com/rohitgupta1003/FOODATO)** — A Zomato-inspired food delivery website with a fully responsive UI.
+- **[Space Quiz App ](https://github.com/rohitgupta1003/Space-Quiz-App)** — A classic space quiz app built with HTML, CSS.
 - **[Smart Calculator]()** — A modular calculator application designed for improved computational reliability.
-- **[Snake Game]()** — A classic Snake game built with Python OOP, featuring collision detection and score tracking.
+
 
 
 
